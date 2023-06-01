@@ -36,12 +36,12 @@ img {
    height: 31rem;
    padding: 1rem;
    border-radius:1rem ;
-   box-shadow: 5px 5px 5px rgb(0,0, 0 , 0.1);
-   margin-bottom: 1rem;
+   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+   margin-bottom: 2rem;
    
 }
 
-.container h1 {
+.container h2 {
   font-size: 1.5rem;
   color: var(--Dark-blue);
   text-align: center;
@@ -53,7 +53,7 @@ img {
     text-align: center;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-    
+    font-weight: bold;
 }
 
 
